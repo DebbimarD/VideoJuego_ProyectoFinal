@@ -16,11 +16,19 @@ Para iniciar el juego se debe estar en la escena de StartScreen. Una vez en la e
 ## Historia
 
  Cuando los españoles llegaron a Puerto Rico, las personas que ya habitaban la isla, los indios taínos, pensaron que ellos eran dioses. Esto se debía a su apariencia física, sus barbas, sus armaduras y sus caballos. Como los taínos eran naturalmente bondadosos y hospitalarios, los trataron con respeto. Les ofrecieron comida, tributos y refugio. Gracias a esta hospitalidad, los españoles, durante meses e incluso por algunos años, se aprovecharon de los taínos y les robaron muchos recursos.
+ 
  Con el paso del tiempo, uno de los indios más bondadosos, pero también valiente y rebelde, llamado Guarionex, comenzó a dudar de la supuesta divinidad de los españoles. Había notado que estos se enfermaban, sangraban y morían al igual que ellos. Estas dudas lo llevaron a reunirse con varios taínos para compartir sus inquietudes. Al coincidir con su manera de pensar, decidieron comprobar si los españoles eran realmente dioses.
 Para hacerlo, ahogaron a un español y escondieron su cuerpo en un lugar apartado, con la intención de observar qué ocurría con él después de varios días. Cuando Guarionex y su grupo regresaron al lugar, se dieron cuenta de que el cuerpo olía mal. Fue entonces cuando confirmaron que los españoles no eran dioses y que los habían estado utilizando.
+
  Tras este descubrimiento, Guarionex y los demás taínos corrieron la verdad entre su gente y tomaron la decisión de rebelarse contra los españoles. Guarionex sabía que esta decisión muy probablemente provocaría una guerra, y también era consciente de que los taínos se encontraban en desventaja, ya que los españoles contaban con más hombres y armas más avanzadas. Por esta razón, comenzó a buscar una forma de proteger a su pueblo.
+
+ 
 En su búsqueda, recordó una antigua leyenda que hablaba de un cemí oculto dentro de un laberinto, el cual otorgaba poderes sobrenaturales a quien lograra poseerlo. Decidido a hacer lo que fuera necesario para proteger a su gente, Guarionex buscó información entre los suyos hasta que finalmente logró encontrar el laberinto.
+
+
 Con gran valentía, Guarionex enfrentó los numerosos retos que implicaba llegar hasta el artefacto sagrado y logró obtener el cemí. Al hacerlo, adquirió sus poderes y los utilizó para un propósito justo, la protección de su gente. Aun teniendo la capacidad de eliminar por completo a los españoles, Guarionex decidió mostrar misericordia. Derrotados y sin encontrar una manera de vencerlo, los españoles se vieron obligados a retroceder y abandonar la isla.
+
+
 Gracias al sacrificio y valentía de Guarionex, los taínos pudieron continuar habitando Puerto Rico y vivir por muchas generaciones más. Guarionex se convirtió en un héroe y el protagonista de una gran victoria en la guerra de los taínos contra los españoles.
 
 ## Proceso
