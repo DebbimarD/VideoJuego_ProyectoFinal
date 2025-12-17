@@ -37,11 +37,10 @@ Se hizo el terreno 100x100 para el laberinto. Otro terreno 200x200 para el alred
 
 Una vez terminado eso se le agregó el NavMesh agent y con el navmesh surface se hizo bake para que el enemy pudiera caminar por las áreas del laberinto y comprobar que no se quedara estancado. Se hicieron 4 escenas en total, la primera es la pantalla de inicio (StartScreen) es como un interface para empezar el juego, se hizo uno para cuando el enemigo te atrapa y en donde puedes darle restart, la escena principal que es donde está el juego y por último la escena de win screen que es cuando el player encuentra el artefacto final completando así el recorrido del laberinto. Para que el enemigo solo reconociera al player se crearon los layers de Player y enemy, se puso los layers en los prefabs y que el enemy solo reconociera como objeto al player. Al artefacto también se le agregó el AI y se le puso casi lo mismo que al enemy pero en vez de que si reconoce al player cuando se acerca perder pues gana. En el build profile se agregaron las escenas para cuando fueran llamadas en el código pues las reconociera y se pusieron en orden de Start, SampleScene, Lose, Win. Para empezar el juego tenemos que estar metido en la escena de start que viene siendo como el interface de inicio y de esa manera se hace click en la pantalla (se programó con un bloque en el fondo y si se hace click en cualquier parte pues vaya a la próxima escena). Se utilizaron ambos inputsystem, para el juego como tal se utilizó el componente de input con el nuevo sistema pero para los interface se utilizó un script con el código diciendo que si se hace click pues para la próxima escena con el input system viejo. Al final después de tener todo funcional se colocaron varios enemy’s dispersados en el laberinto de manera en que el player tenga que evitarlos durante el transcurso y si es atrapado tiene la opción de reiniciar el juego y comenzar desde el inicio hasta llegar al final del laberinto que es el cemi.
 
-##Creación del cemí
+## Creación del cemí
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/a3b40ac2-e0b7-4a8c-a646-9884f2d6b40e" />
- width="50%">
+  <img src="https://github.com/user-attachments/assets/a3b40ac2-e0b7-4a8c-a646-9884f2d6b40e" width="50%" />
   <p><i>Cemí.</i></p>
 </div>
 
