@@ -1,11 +1,18 @@
 # The Last Cemi
 
-
-
-<div align="center">
-  <img src="Pasted Graphic.png" width="50%" alt="Enemy">
-  <p><i>Mapa del juego</i></p>
 </div>
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/efa5af6f-8fa6-4c2c-9876-379e9ab2f709" width="50%" alt="">
+  <p><i></i></p>
+</div>
+
+</div>
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/f2a66645-fdf6-4d79-b464-303c82b87888" width="50%" alt="">
+  <p><i></i></p>
+</div>
+
+
 
 ## Integrantes del equipo
 - Debbimar Díaz Santiago
@@ -13,6 +20,8 @@
 - Jeremy Curry Romero
 
 ## Enlace para descargar juego
+
+https://sistemaupr-my.sharepoint.com/:u:/g/personal/jonlier_diaz_upr_edu/IQAARw3F2DYDSbPxkaHwsBAnAWy6NlUvPrl_F1cwa1j5a58?e=dRynPz
 
 
 ## Gameplay
@@ -37,15 +46,29 @@ Con gran valentía, Guarionex enfrentó los numerosos retos que implicaba llegar
 
 Gracias al sacrificio y valentía de Guarionex, los taínos pudieron continuar habitando Puerto Rico y vivir por muchas generaciones más. Guarionex se convirtió en un héroe y el protagonista de una gran victoria en la guerra de los taínos contra los españoles.
 
+<img width="1024" height="559" alt="image" src="https://github.com/user-attachments/assets/831287b2-3cac-4aee-a3d1-74920062a8bb" />
+<div align="center">
+  <img src="Pasted Graphic.png" width="50%" alt="Enemy">
+  <p><i>Mapa del juego</i></p>
+</div>
+
+
+
 ## Proceso
+
+<div align="center">
+  <img src="Pasted Graphic.png" width="50%" alt="">
+  <p><i>Mapa del juego</i></p>
+</div>
+
 Se hizo el terreno 100x100 para el laberinto. Otro terreno 200x200 para el alrededor. Luego se convirtió en uno pero era para tener una idea de el tamaño. Se dibujó un modelo del laberinto y luego se intentó recrear con cubos 3D y usando la herramientas de mover y girar de ajustaron para que fuera lo más similar al modelo principal. Se bajaron unos assets gratis para texturas, el muñeco para player y un golem como enemy. Primero se programó el player, utilizando el código ya creado en clase solo se tuvo que modificar para que se pudiera girar hacia arriba y hacia abajo ya que era en primera persona. Se le agregaron componentes como la cápsula para el collider y rigid body. Se puso la cámara a la altura de los ojos del player y como hijo del prefab. Luego se hizo el prefab del enemy, se utilizó también el código usado en clase pero con unas modificaciones ya que el propósito del enemy era que solo caminara hacia adelante y luego se girara hacia atrás en ciclo, en un script llamado EnemyPatrolCycle el cual se creó para esa función. A continuación parte del código:
 
 <div align="center">
-  <img src="3.png" width="50%" alt="Enemy">
+  <img src="3.png" width="50%" alt="">
   <p><i>Script para enemy (1)</i></p>
 </div>
 <div align="center">
-  <img src="4.png" width="50%" alt="Enemy">
+  <img src="4.png" width="50%" alt="">
   <p><i>Script para enemy (2)</i></p>
 </div>
 
